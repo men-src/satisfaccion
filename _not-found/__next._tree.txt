@@ -1,6 +1,6 @@
-:HL["/satisfaccion/_next/static/chunks/356k69uvdhcvk.css","style"]
+:HL["/satisfaccion/_next/static/chunks/3qwtq1wgasib8.css","style"]
 :HL["/satisfaccion/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/satisfaccion/api/v1/encuestas/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"V5rBRU6A7IjsdiO8q4gLr","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"Gh-t6n2L6QorJFSB1AeLY","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
