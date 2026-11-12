@@ -3,4 +3,4 @@
 :HL["/satisfaccion/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/satisfaccion/api/v1/encuestas/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"sgJsA8X40FMjLg4hMKP1g","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"27zG5H1gZZmHI9Fmse-0c","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
