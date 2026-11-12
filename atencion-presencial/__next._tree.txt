@@ -4,4 +4,4 @@
 :HL["/satisfaccion/api/v1/encuestas/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"atencion-presencial","h":64,"c":"$Q2"}]]
-0:{"b":"NQ13IPZfLLV_xkjr9uVcc","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"hZBKieIjvqQPs08iTyVq4","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
