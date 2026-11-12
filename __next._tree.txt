@@ -1,6 +1,6 @@
-:HL["/satisfaccion/_next/static/chunks/2ynlyn1ubvqya.css","style"]
+:HL["/satisfaccion/_next/static/chunks/2v00wmii00u_g.css","style"]
 :HL["/satisfaccion/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/satisfaccion/api/v1/dimensiones.json","fetch",{"crossOrigin":"anonymous"}]
 :HL["/satisfaccion/api/v1/encuestas/cubo.json","fetch",{"crossOrigin":"anonymous"}]
 1:[["children",{"s":"__PAGE__","h":128}]]
-0:{"b":"27zG5H1gZZmHI9Fmse-0c","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"2Rh6BMmhNYdjTR5U-n5lq","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
